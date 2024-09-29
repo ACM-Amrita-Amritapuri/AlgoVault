@@ -1,6 +1,3 @@
-Here’s the full **README.md** content for your **AlgoVault** repository, incorporating all the sections, including the **Contributing** guidelines:
-
----
 
 # AlgoVault 📚
 
